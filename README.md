@@ -1,2 +1,2 @@
 # codewars4kyuSolutions
-codewars questions of level 4kyu solutions in python
+solutions in python of some codewars questions of level 4kyu 
