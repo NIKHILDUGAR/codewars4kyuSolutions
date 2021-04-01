@@ -1,3 +1,5 @@
+#question link https://www.codewars.com/kata/5629db57620258aa9d000014/python
+
 def mix(s1, s2):
     res1 = {i : s1.count(i) for i in set(s1) if i!=" " and i.islower()}
     res2 = {i : s2.count(i) for i in set(s2) if i!=" " and i.islower()}
